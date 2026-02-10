@@ -49,18 +49,18 @@ set_num,name,year,lego_info,value
 080-1,Basic Building Set with Train,1967,num_parts,710
 088-1,Super Set,1969,theme_id,469
 088-1,Super Set,1969,num_parts,615
-1-10,Mini-Wheel Model Maker No. 1,1971,num_parts,86
-1-10,Mini-Wheel Model Maker No. 1,1971,theme_id,423
-1-11,Basic Souvenir Box,1981,theme_id,469
-1-11,Basic Souvenir Box,1981,num_parts,36
-1-7,Basic Set,1973,num_parts,107
-1-7,Basic Set,1973,theme_id,469
-1-8,Little House Set,1970,num_parts,67
-1-8,Little House Set,1970,theme_id,433
-10-2,Universal Building Set,1976,theme_id,469
-10-2,Universal Building Set,1976,num_parts,129
-10-3,Locomotive Wheels,1977,num_parts,8
-10-3,Locomotive Wheels,1977,theme_id,456
+10-Jan,Mini-Wheel Model Maker No. 1,1971,num_parts,86
+10-Jan,Mini-Wheel Model Maker No. 1,1971,theme_id,423
+11-Jan,Basic Souvenir Box,1981,theme_id,469
+11-Jan,Basic Souvenir Box,1981,num_parts,36
+7-Jan,Basic Set,1973,num_parts,107
+7-Jan,Basic Set,1973,theme_id,469
+8-Jan,Little House Set,1970,num_parts,67
+8-Jan,Little House Set,1970,theme_id,433
+2-Oct,Universal Building Set,1976,theme_id,469
+2-Oct,Universal Building Set,1976,num_parts,129
+3-Oct,Locomotive Wheels,1977,num_parts,8
+3-Oct,Locomotive Wheels,1977,theme_id,456
 100-1,4.5V Motor with Wheels (Small Version),1966,theme_id,243
 100-1,4.5V Motor with Wheels (Small Version),1966,num_parts,16
 100-2,4.5V Motor with Wheels (Large Version),1966,num_parts,27
@@ -991,10 +991,10 @@ set_num,name,year,lego_info,value
 1098-1,Hang Glider,1998,theme_id,87
 1099-1,Ninja Blaster,1999,theme_id,434
 1099-1,Ninja Blaster,1999,num_parts,24
-11-2,Small Pre-School Basic Set,1973,theme_id,433
-11-2,Small Pre-School Basic Set,1973,num_parts,31
-11-3,Locomotive Traction Tires,1977,num_parts,8
-11-3,Locomotive Traction Tires,1977,theme_id,456
+2-Nov,Small Pre-School Basic Set,1973,theme_id,433
+2-Nov,Small Pre-School Basic Set,1973,num_parts,31
+3-Nov,Locomotive Traction Tires,1977,num_parts,8
+3-Nov,Locomotive Traction Tires,1977,theme_id,456
 110-1,Universal Building Set,1977,theme_id,469
 110-1,Universal Building Set,1977,num_parts,129
 1100-1,Sky Pirates,2001,theme_id,68
@@ -1231,10 +1231,10 @@ set_num,name,year,lego_info,value
 1199-1,Winning Team,2000,num_parts,110
 11995-1,Hero Recon Team,2011,num_parts,0
 11995-1,Hero Recon Team,2011,theme_id,400
-12-1,Blue Space Elements,1981,num_parts,8
-12-1,Blue Space Elements,1981,theme_id,452
-12-3,Wheel Bearings for Locomotives,1977,theme_id,456
-12-3,Wheel Bearings for Locomotives,1977,num_parts,2
+1-Dec,Blue Space Elements,1981,num_parts,8
+1-Dec,Blue Space Elements,1981,theme_id,452
+3-Dec,Wheel Bearings for Locomotives,1977,theme_id,456
+3-Dec,Wheel Bearings for Locomotives,1977,num_parts,2
 120-1,Complete Freight Train Set with Tipper Trucks,1969,theme_id,235
 120-1,Complete Freight Train Set with Tipper Trucks,1969,num_parts,163
 1200-1,"LEGO Town Plan Board, Large Plastic",1955,num_parts,1
@@ -2667,16 +2667,16 @@ set_num,name,year,lego_info,value
 1998-1,Silja Line Ferry,1991,num_parts,375
 1999-1,Space Value Pack,1985,theme_id,130
 1999-1,Space Value Pack,1985,num_parts,3
-2-1,Extra Large Tires & Hubs,1982,theme_id,1
-2-1,Extra Large Tires & Hubs,1982,num_parts,4
-2-10,Mini-Wheel Model Maker No. 2,1971,theme_id,423
-2-10,Mini-Wheel Model Maker No. 2,1971,num_parts,63
-2-11,Medium Basic LEGO Set,1976,theme_id,433
-2-11,Medium Basic LEGO Set,1976,num_parts,130
-2-7,Basic Set,1973,theme_id,469
-2-7,Basic Set,1973,num_parts,139
-2-8,Medium House Set,1970,theme_id,433
-2-8,Medium House Set,1970,num_parts,109
+1-Feb,Extra Large Tires & Hubs,1982,theme_id,1
+1-Feb,Extra Large Tires & Hubs,1982,num_parts,4
+10-Feb,Mini-Wheel Model Maker No. 2,1971,theme_id,423
+10-Feb,Mini-Wheel Model Maker No. 2,1971,num_parts,63
+11-Feb,Medium Basic LEGO Set,1976,theme_id,433
+11-Feb,Medium Basic LEGO Set,1976,num_parts,130
+7-Feb,Basic Set,1973,theme_id,469
+7-Feb,Basic Set,1973,num_parts,139
+8-Feb,Medium House Set,1970,theme_id,433
+8-Feb,Medium House Set,1970,num_parts,109
 20-1,Universal Building Set,1976,num_parts,217
 20-1,Universal Building Set,1976,theme_id,469
 200-1,Family,1974,theme_id,364
@@ -3837,12 +3837,12 @@ set_num,name,year,lego_info,value
 2996-1,Adventurers Tomb,1998,num_parts,81
 2998-1,Stena Line Ferry,1998,theme_id,471
 2998-1,Stena Line Ferry,1998,num_parts,195
-3-4,Basic Set,1973,num_parts,191
-3-4,Basic Set,1973,theme_id,469
-3-6,Medium House Set,1970,num_parts,158
-3-6,Medium House Set,1970,theme_id,433
-3-8,Mini-Wheel Model Maker No. 3,1971,num_parts,65
-3-8,Mini-Wheel Model Maker No. 3,1971,theme_id,423
+4-Mar,Basic Set,1973,num_parts,191
+4-Mar,Basic Set,1973,theme_id,469
+6-Mar,Medium House Set,1970,num_parts,158
+6-Mar,Medium House Set,1970,theme_id,433
+8-Mar,Mini-Wheel Model Maker No. 3,1971,num_parts,65
+8-Mar,Mini-Wheel Model Maker No. 3,1971,theme_id,423
 30-1,Universal Building Set,1976,num_parts,200
 30-1,Universal Building Set,1976,theme_id,469
 30-2,Small Ship Set,1973,num_parts,26
@@ -5959,10 +5959,10 @@ set_num,name,year,lego_info,value
 398-1,U.S.S. Constellation,1978,theme_id,404
 3983-1,Captain Roger Key Chain,2002,num_parts,0
 3983-1,Captain Roger Key Chain,2002,theme_id,503
-4-3,Basic Set,1973,theme_id,469
-4-3,Basic Set,1973,num_parts,234
-4-4,Large House Set,1970,theme_id,433
-4-4,Large House Set,1970,num_parts,218
+3-Apr,Basic Set,1973,theme_id,469
+3-Apr,Basic Set,1973,num_parts,234
+4-Apr,Large House Set,1970,theme_id,433
+4-Apr,Large House Set,1970,num_parts,218
 40-1,Universal Building Set,1976,num_parts,293
 40-1,Universal Building Set,1976,theme_id,469
 400-1,Universal Building Set,1977,theme_id,469
@@ -9167,10 +9167,10 @@ set_num,name,year,lego_info,value
 4998-1,Stegosaurus,2008,num_parts,730
 4999-1,Vestas Windmill,2008,theme_id,50
 4999-1,Vestas Windmill,2008,num_parts,809
-5-3,Basic Set,1973,num_parts,330
-5-3,Basic Set,1973,theme_id,469
-5-4,Large House Set,1971,num_parts,307
-5-4,Large House Set,1971,theme_id,433
+3-May,Basic Set,1973,num_parts,330
+3-May,Basic Set,1973,theme_id,469
+4-May,Large House Set,1971,num_parts,307
+4-May,Large House Set,1971,theme_id,433
 50-1,Universal Building Set,1976,theme_id,469
 50-1,Universal Building Set,1976,num_parts,390
 5000-1,Replacement 4.5V Motor,1987,theme_id,443
@@ -11089,10 +11089,10 @@ set_num,name,year,lego_info,value
 5998-1,Vladek,2005,theme_id,198
 5999-1,Jayko,2005,theme_id,198
 5999-1,Jayko,2005,num_parts,6
-6-3,Basic Set,1973,num_parts,338
-6-3,Basic Set,1973,theme_id,469
-6-4,4.5V Battery Train Wagon,1977,num_parts,2
-6-4,4.5V Battery Train Wagon,1977,theme_id,456
+3-Jun,Basic Set,1973,num_parts,338
+3-Jun,Basic Set,1973,theme_id,469
+4-Jun,4.5V Battery Train Wagon,1977,num_parts,2
+4-Jun,4.5V Battery Train Wagon,1977,theme_id,456
 600-1,Ambulance,1970,num_parts,21
 600-1,Ambulance,1970,theme_id,420
 600-2,Police Patrol,1978,num_parts,23
@@ -13841,10 +13841,10 @@ set_num,name,year,lego_info,value
 6991-1,Monorail Transport Base,1994,num_parts,571
 6999-1,Cyber Saucer,1997,num_parts,113
 6999-1,Cyber Saucer,1997,theme_id,144
-7-2,Universal Building Set,1979,theme_id,469
-7-2,Universal Building Set,1979,num_parts,64
-7-3,Basic Set,1973,theme_id,469
-7-3,Basic Set,1973,num_parts,412
+2-Jul,Universal Building Set,1979,theme_id,469
+2-Jul,Universal Building Set,1979,num_parts,64
+3-Jul,Basic Set,1973,theme_id,469
+3-Jul,Basic Set,1973,num_parts,412
 700-1,10 x 20 Brickplate,1966,theme_id,371
 700-1,10 x 20 Brickplate,1966,num_parts,6
 700.1-2,Gift Package,1957,theme_id,366
@@ -18043,12 +18043,12 @@ set_num,name,year,lego_info,value
 7997-1,Train Station,2007,num_parts,386
 7998-1,Heavy Hauler,2007,num_parts,331
 7998-1,Heavy Hauler,2007,theme_id,56
-8-2,Universal Building Set,1979,theme_id,469
-8-2,Universal Building Set,1979,num_parts,93
-8-3,Basic Set,1973,num_parts,665
-8-3,Basic Set,1973,theme_id,469
-8-4,Magnetic Train Couplers with Plates,1977,num_parts,4
-8-4,Magnetic Train Couplers with Plates,1977,theme_id,456
+2-Aug,Universal Building Set,1979,theme_id,469
+2-Aug,Universal Building Set,1979,num_parts,93
+3-Aug,Basic Set,1973,num_parts,665
+3-Aug,Basic Set,1973,theme_id,469
+4-Aug,Magnetic Train Couplers with Plates,1977,num_parts,4
+4-Aug,Magnetic Train Couplers with Plates,1977,theme_id,456
 800-1,Gear Set with Motor,1970,theme_id,472
 800-1,Gear Set with Motor,1970,num_parts,120
 800-2,Extra Bricks Red,1986,theme_id,473
@@ -20857,12 +20857,12 @@ set_num,name,year,lego_info,value
 8996-1,Skopio XV-1,2009,theme_id,327
 8998-1,Toa Mata Nui,2009,theme_id,359
 8998-1,Toa Mata Nui,2009,num_parts,366
-9-1,Universal Building Set,1978,theme_id,469
-9-1,Universal Building Set,1978,num_parts,116
-9-2,Trees & Flowers,1981,num_parts,18
-9-2,Trees & Flowers,1981,theme_id,455
-9-3,Magnetic Train Couplers,1977,num_parts,4
-9-3,Magnetic Train Couplers,1977,theme_id,456
+1-Sep,Universal Building Set,1978,theme_id,469
+1-Sep,Universal Building Set,1978,num_parts,116
+2-Sep,Trees & Flowers,1981,num_parts,18
+2-Sep,Trees & Flowers,1981,theme_id,455
+3-Sep,Magnetic Train Couplers,1977,num_parts,4
+3-Sep,Magnetic Train Couplers,1977,theme_id,456
 90-2,Educational Box - Empty,1965,theme_id,513
 90-2,Educational Box - Empty,1965,num_parts,1
 900-1,Universal Motor Set,1973,num_parts,24
@@ -23345,4 +23345,4 @@ vwkit-1,Volkswagen Kit,1959,num_parts,22
 vwkit-1,Volkswagen Kit,1959,theme_id,366
 wwgp1-1,Wild West Limited Edition Gift Pack,1996,theme_id,476
 wwgp1-1,Wild West Limited Edition Gift Pack,1996,num_parts,3
-dummy-1,dummy,1997,num_parts,3
+dummy-1,dummy,1993,num_parts,2423
